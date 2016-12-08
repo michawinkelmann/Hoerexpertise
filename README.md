@@ -13,3 +13,6 @@ Nach Zuordnung aller 24 Töne zu den Bildern (es stehen auch Instrumente zur Aus
 Unter Windows: Python 3.X mittels Anaconda installieren.
 
 Unter Linux: Python 3.X Installiernen und sämtliche benötigten Pakete (siehe imports am Anfang der Skripte) mit pip o.Ä. installieren.
+
+#Lizenz
+Alle verwendeten Bilder und Töne sind selbst erstellt und/oder rechtefrei
