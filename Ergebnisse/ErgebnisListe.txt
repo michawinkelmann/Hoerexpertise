@@ -1,0 +1,12 @@
+# Ergebnisse der Testpersonen als Liste. Eine Zeile pro Testperson, dabei ein Eintrag pro Ton. Letzter Eintrag = 1: Musikalisch, = 0: unmusikalisch. Kodierung wie folgt: 
+#  1: Bratscher 
+#  2: Saxophon 
+#  3: Klavier 
+#  4: Harfe 
+#  5: Gitarre 
+#  6: Geige 
+#  7: Orgel 
+#  8: Horn 
+#  9: Posaune 
+#  10: Oboe 
+#  Erste Zeile: Richtige Zuordnung (Muster)
